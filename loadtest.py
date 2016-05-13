@@ -135,5 +135,7 @@ def _demo_nologin():
     
 if __name__ == '__main__':
 #    _demo_afterlogin()
-    _demo_nologin()
+#    _demo_nologin()
+    pass
+
     
