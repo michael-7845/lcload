@@ -1,0 +1,4 @@
+username, password, data
+user00001@may.event, 123456, {"userId":"56c7d005d342d300543379e2"}
+user00002@may.event, 123456, {"userId":"56c7d005d342d300543379e2"}
+user00003@may.event, 123456, {"userId":"56c7d005d342d300543379e2"}
